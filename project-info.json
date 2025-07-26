@@ -1,0 +1,33 @@
+{
+  "portfolio_info": {
+    "name": "Deepak Sharma - Senior Data Engineer Portfolio",
+    "version": "2.0.0",
+    "created": "2025-07-26T00:14:42.210785",
+    "total_files": 27,
+    "description": "Dynamic, interactive technical portfolio showcasing 7+ years of AWS data engineering expertise",
+    "technologies": [
+      "Next.js 14",
+      "TypeScript",
+      "Tailwind CSS",
+      "Framer Motion",
+      "React",
+      "AWS Architecture"
+    ],
+    "features": [
+      "Interactive architecture diagrams",
+      "Collapsible project cards",
+      "Dynamic tiling layout",
+      "Smooth animations and transitions",
+      "Responsive design",
+      "Professional AWS architecture showcases",
+      "Real project data from Delta Airlines experience",
+      "Cloudflare Pages ready deployment"
+    ],
+    "deployment": {
+      "platform": "Cloudflare Pages",
+      "build_command": "npm run build",
+      "output_directory": "out",
+      "node_version": "18+"
+    }
+  }
+}

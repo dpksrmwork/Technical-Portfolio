@@ -1,0 +1,14 @@
+# Architecture Diagram Placeholder
+
+This file (data_pipeline_architecture.png) should contain the actual architecture diagram.
+
+In the real deployment, this would be replaced with the PNG file generated from the create_chart calls.
+
+## Diagram Details:
+- Data Pipeline Architecture
+- Format: PNG
+- Recommended size: 1200x800px
+- Location: public/images/data_pipeline_architecture.png
+
+## Usage:
+This diagram is referenced in the Projects component and displayed when users expand project details.

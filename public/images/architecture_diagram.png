@@ -1,0 +1,14 @@
+# Architecture Diagram Placeholder
+
+This file (architecture_diagram.png) should contain the actual architecture diagram.
+
+In the real deployment, this would be replaced with the PNG file generated from the create_chart calls.
+
+## Diagram Details:
+- Architecture Diagram
+- Format: PNG
+- Recommended size: 1200x800px
+- Location: public/images/architecture_diagram.png
+
+## Usage:
+This diagram is referenced in the Projects component and displayed when users expand project details.

@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-gray-50 text-gray-900;
+  }
+}
+
+@layer components {
+  .container-custom {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .card-gradient {
+    @apply bg-gradient-to-br from-white to-gray-50 border border-gray-200;
+  }
+
+  .tech-badge {
+    @apply inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-primary-100 text-primary-800 border border-primary-200;
+  }
+
+  .project-card {
+    @apply card-gradient rounded-xl p-6 shadow-sm hover:shadow-lg transition-all duration-300;
+  }
+
+  .architecture-preview {
+    @apply w-full h-64 object-cover rounded-lg border border-gray-200;
+  }
+}
