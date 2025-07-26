@@ -32,4 +32,16 @@ yarn-error.log*
 
 # Typescript
 *.tsbuildinfo
-venv*
+
+# Python virtual environments
+venv/
+validate_env/
+*.pyc
+__pycache__/
+
+# Python scripts (optional)
+*.py
+
+# Word documents
+*.docx
+*.doc
