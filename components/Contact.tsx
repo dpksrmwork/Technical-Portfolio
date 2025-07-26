@@ -18,7 +18,7 @@ export default function Contact() {
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Interested in discussing data engineering opportunities, cloud architecture projects, 
-            or potential collaborations? I'd love to hear from you.
+            or potential collaborations? I&apos;d love to hear from you.
           </p>
         </motion.div>
 
@@ -156,7 +156,7 @@ export default function Contact() {
                 <input
                   type="text"
                   className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent outline-none transition-all"
-                  placeholder="What's this about?"
+                  placeholder="What&apos;s this about?"
                 />
               </div>
 
