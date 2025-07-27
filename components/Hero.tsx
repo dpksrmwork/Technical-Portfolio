@@ -43,9 +43,7 @@ const Hero = () => {
             animate={{ scale: 1 }}
             transition={{ duration: 0.8 }}
           >
-            <div className="w-full h-full bg-gray-800 rounded-full flex items-center justify-center text-4xl font-bold">
-              DS
-            </div>
+            <img className="w-full h-full rounded-full object-cover" src="/images/mypic.jpg" alt="Deepak Sharma" />
           </motion.div>
 
           <motion.h1
